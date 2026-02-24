@@ -1,0 +1,8 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rm -rf build && mkdir build && cp -r src/* build/"
+  },
+  "devDependencies": {}
+}
